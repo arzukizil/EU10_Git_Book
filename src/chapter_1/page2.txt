@@ -1,1 +1,5 @@
 We are ready to commit
+We did commit and pushed the files to GitHub
+
+Let's see what's going to happen
+
