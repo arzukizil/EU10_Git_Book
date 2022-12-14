@@ -1,3 +1,5 @@
 Hello. This is my fech file to my computer.
 
 After I did fetch and pull I'll try another thing.
+
+Last try to use update funcation without commit.
